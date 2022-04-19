@@ -1,0 +1,99 @@
+header{
+    display: flex;
+    justify-content: flex-end;
+}
+#hd{
+    display: flex;
+    justify-self: flex-end;
+    margin-left: 10px;
+}
+
+.rs{
+    margin-top: 12px;
+    color: gray;
+}
+#ls1{
+    display: flex;
+    margin-right: 20px;
+    margin-top: 5px;
+    color: #70757a;
+}
+#ls2{
+    margin-right: 1130px;
+    margin-top: 5px;
+    color: #70757a;
+}
+#google{ 
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 570px;
+}
+input[type=text]{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    width: 550px;
+    padding: 10px;
+    border-radius: 25px;
+    outline: 1px solid #c4c9cd;
+}
+form.box{
+    margin-top: 170px;
+    margin-left: -70px;
+}
+span.bt1 input[type=button]{
+    display: flex;
+    padding: 5px;
+    margin-top: 40px;
+    margin-left: 600px;
+}
+span.bt2 input[type=button]{
+    display: flex;
+    padding: 5px;
+    margin-top: -31px;
+    margin-left: 700px;
+}
+
+div.country{
+    margin-top: 287px;
+    border-top:2px solid #dadce0;
+    background-color: #dadce0;
+    padding: 13px;
+    border-bottom: 1px solid #9aa0a6;
+}
+span.korea{
+    padding: 15px 15px;
+    color: #70757a;
+}
+div.ad{
+    
+    background-color: #dadce0;
+    padding: 13px;
+    
+}
+span.bs{
+    padding: 15px 15px;
+    color: #70757a;
+}
+a{
+    text-decoration-line: none;
+}
+
+#rrr{
+margin-left: 880px;
+}
+
+a.a1{
+    color: #000000;
+    font-size: 15px;
+}
+a.a2{
+    color: #000000;
+    font-size: 13px;
+}
+a:hover{
+    text-decoration: underline;
+}
+a.a3{
+    color: #70757a;
+}0
